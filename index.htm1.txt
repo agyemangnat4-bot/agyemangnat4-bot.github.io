@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MY MUSIC ARTS BLOG</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>MY MUSIC ARTS BLOG</h1>
+    <p>Sharing music and visual arts from Ghana</p>
+  </header>
+
+  <main>
+    <article>
+      <h2>Welcome to My Blog</h2>
+      <p class="date">May 6, 2026</p>
+      <p>This is my first post about music and arts in Accra.</p>
+    </article>
+  </main>
+
+  <footer>
+    <p>© 2026 MY MUSIC ARTS BLOG</p>
+  </footer>
+</body>
+</html>
